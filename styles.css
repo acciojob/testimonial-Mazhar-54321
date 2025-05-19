@@ -7,6 +7,10 @@ body{
 	overflow:hidden
 	/* padding:20px; */
 }
+p{
+	font-size:10px;
+}
+
 .testimonial{
 	max-width:550px;
 	margin-bottom:10px;
